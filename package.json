@@ -1,0 +1,12 @@
+{
+  "name": "hypetrain",
+  "version": "0.1.0",
+  "description": "Join the hype train 🚂💨💨",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Max Karacsony",
+    "email": "maximilian.karacsony@mail.de"
+  },
+  "private": false
+}
